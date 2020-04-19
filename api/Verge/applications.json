@@ -1,0 +1,40 @@
+{
+  "google-chrome": {
+    "name": "google chrome",
+    "id": "google-chrome",
+    "versions": {
+      "1.0.0": {
+        "id": "1.0.0",
+        "file": null
+      },
+      "2.0": {
+        "id": "2.0.0",
+        "file": null
+      },
+      "2.1": {
+        "id": "2.1",
+        "file": null
+      }
+    }
+  },
+  "fire-fox": {
+    "name": "fire fox",
+    "id": "fire-fox",
+    "versions": {
+      "1.0.0": {
+        "id": "1.0.0",
+        "file": null
+      }
+    }
+  },
+  "adobe-photoshop-cc": {
+    "id": "adobe-photoshop-cc",
+    "name": "Adobe Photoshop CC",
+    "versions": {
+      "1.0.0": {
+        "id": "1.0.0",
+        "file": "/api/files/Hfd43ce6dccb646008e1187d140dade13A.jpg"
+      }
+    }
+  }
+}
